@@ -2,7 +2,7 @@
 
 ## Creator
 
-Dan Quinn
+Dan Quinn, Logan Reese, Sarah Glass, and Anthony Sinitsa
 
 ## Project Description
 
